@@ -1,0 +1,29 @@
+_repo: Memoria-hydrografica-das-ilhas-de-Cabo-Verdepublicada-em-o-anno-de-1790_36404
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cabral, F. A. (Francisco Antonio)
+    aliases:
+    - Cabral, Francisco Antonio
+    - Cabral, Francisco António
+    gutenberg_agent_id: '38249'
+    url: http://www.gutenberg.org/2009/agents/38249
+description: ''
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36404'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cabo Verde -- Description and travel'
+- !lcsh 'Hydrography -- Cabo Verde'
+- !lcc 'GB'
+title: "Memoria hydrografica das ilhas de Cabo Verde\r\npara servir de instrucção\
+  \ a carta das mesmas ilhas, publicada em o anno de 1790"
+url: http://www.gutenberg.org/ebooks/36404
